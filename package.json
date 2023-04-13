@@ -1,7 +1,7 @@
 {
   "name": "@kirill-jsdev/tw-react-components-library",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/tw-react-components-library"
+    "registry": "https://npm.pkg.github.com/kirill-jsdev"
   },
   "version": "0.0.1",
   "description": "A simple template for a custom React component library",
