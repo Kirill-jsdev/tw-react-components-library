@@ -1,5 +1,5 @@
 {
-  "name": "tw-react-components-library",
+  "name": "@kirill-jsdev/tw-react-components-library",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/tw-react-components-library"
   },
